@@ -1,0 +1,7 @@
+;
+; dpsc.imp
+;
+; import the DosPerfSysCall function from DOSCALL1.DLL
+;
+; -------- dpsc.lib --------
+DosPerfSysCall          doscall1 976 ?
